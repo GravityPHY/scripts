@@ -1,6 +1,6 @@
 import sys
 import os
-
+##This script is written by Liz##
 from pymatgen.core.structure import Structure
 from pymatgen.symmetry.bandstructure import HighSymmKpath
 from pymatgen.symmetry.analyzer import SpacegroupAnalyzer

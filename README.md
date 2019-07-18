@@ -1,2 +1,2 @@
 # scripts
-Here are the scripts I used in reading OUTCAR file in VASP.
+Here is the toolbox to extract information I need from files in VASP

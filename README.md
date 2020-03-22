@@ -1,2 +1,2 @@
 # scripts
-Here is the toolbox to extract information I need from outpu from VASP
+Here is the toolbox that extract information I need from the OUTPUT from VASP
